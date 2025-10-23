@@ -1,0 +1,36 @@
+body{
+}
+
+.central{
+    width: 20rem;
+    height: 20rem;
+    margin-top: 20rem;
+    margin-left: 50rem;
+}
+#mais{
+    margin-top: 7rem;
+    margin-left: 3rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: blue;
+    font-size: 4rem;
+}
+#mais:hover{
+    background-color: rgb(238, 255, 0);
+}
+#menos{
+    margin-top: 7rem;
+    margin-left: 3rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: rgb(255, 0, 0);
+    font-size: 4rem;
+}
+#menos:hover{
+    background-color: rgb(238, 255, 0);
+}
+#contador{
+    position: absolute;
+    top: 40%;
+    left: 50.2%;
+}
